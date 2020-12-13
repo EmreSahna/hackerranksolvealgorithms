@@ -1,1 +1,3 @@
-# hackerranksolve
+Hello!
+Im just beginner.
+Be free...
